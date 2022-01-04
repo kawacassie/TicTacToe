@@ -49,11 +49,11 @@
     cursor: pointer;
 }
 
-.playerX {
+.joueurX {
     color: #09C372;
 }
 
-.playerO {
+.joueurO {
     color: #498AFB;
 }
 
@@ -75,10 +75,6 @@
     cursor: pointer;
 }
 
-.restart {
-    background-color: #498AFB;
-}
-
 #reset {
-    background-color: #FF3860;
+    background-color: #ff0000;
 }
